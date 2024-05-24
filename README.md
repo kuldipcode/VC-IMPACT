@@ -1,1 +1,0 @@
-# VC-IMPACT first commit
